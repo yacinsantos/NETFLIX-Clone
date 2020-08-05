@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+NETFLIX Clone Using React JS
+
+check it 👇
+
+Demo 👉 https://netflix-clone-83b0b.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
